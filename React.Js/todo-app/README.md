@@ -1,6 +1,6 @@
 # TODO APP.
-## This is a TODO App build using React.js where user can add, delete the todo tasks. The todo tasks are sorted according to them being complete or un-complete.
-## Here, the completed tasks are kept at bottom and uncompleted are above for user's ease to access them.
+### This is a TODO App build using React.js where user can add, delete the todo tasks. The todo tasks are sorted according to them being complete or un-complete.
+### Here, the completed tasks are kept at bottom and uncompleted are above for user's ease to access them.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
